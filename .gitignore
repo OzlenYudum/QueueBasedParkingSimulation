@@ -1,0 +1,12 @@
+# Eclipse/IDE yapılandırma dosyaları
+.project
+.classpath
+.settings/
+
+# Derlenmiş dosyalar ve çıktılar
+bin/
+*.class
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
